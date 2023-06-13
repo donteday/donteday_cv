@@ -20,8 +20,8 @@
 
 ![image](https://github.com/donteday/donteday_cv/assets/124591767/a5770d8e-b7e4-43f8-ae24-590e15cec26e)
 
-### [uTodo]()
-> Работа с React/Redux
+### [uTodo](https://master--celebrated-dasik-d006fb.netlify.app/)
+> Работа с React/Redux/TS
 
 ![image](https://github.com/donteday/donteday_cv/assets/124591767/58dd7e26-4c3d-427b-a2df-02e30b993d1c)
 
