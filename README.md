@@ -15,3 +15,7 @@
 
 ![image](https://github.com/donteday/donteday_cv/assets/124591767/f8dfa72e-6299-488f-87fc-d956e0ed4108)
 
+### [Farmily](https://fluffy-boba-873f41.netlify.app/)
+> Работа с React/Redux
+
+![image](https://github.com/donteday/donteday_cv/assets/124591767/a5770d8e-b7e4-43f8-ae24-590e15cec26e)
