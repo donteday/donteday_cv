@@ -15,10 +15,11 @@
 
 ![image](https://github.com/donteday/donteday_cv/assets/124591767/f8dfa72e-6299-488f-87fc-d956e0ed4108)
 
-### [Farmily](https://fluffy-boba-873f41.netlify.app/)
-> Работа с React/Redux
+### [Моя Карманная Ферма](https://fluffy-boba-873f41.netlify.app/)
+> Игра на React + Redux опубликованна на Яндекс.Игры https://yandex.ru/games/app/236798?lang=ru 
 
-![image](https://github.com/donteday/donteday_cv/assets/124591767/a5770d8e-b7e4-43f8-ae24-590e15cec26e)
+![image](https://github.com/donteday/donteday_cv/assets/124591767/1d238b92-f15d-4d32-8120-26c1c445fcf6)
+
 
 ### [uTodo](https://master--celebrated-dasik-d006fb.netlify.app/)
 > Работа с React/Redux/TS
