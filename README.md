@@ -15,14 +15,20 @@
 
 ![image](https://github.com/donteday/donteday_cv/assets/124591767/f8dfa72e-6299-488f-87fc-d956e0ed4108)
 
-### [Моя Карманная Ферма](https://fluffy-boba-873f41.netlify.app/)
-> Игра на React + Redux опубликованна на Яндекс.Игры https://yandex.ru/games/app/236798?lang=ru 
-
-![image](https://github.com/donteday/donteday_cv/assets/124591767/1d238b92-f15d-4d32-8120-26c1c445fcf6)
-
-
 ### [uTodo](https://master--celebrated-dasik-d006fb.netlify.app/)
 > Работа с React/Redux/TS
 
 ![image](https://github.com/donteday/donteday_cv/assets/124591767/58dd7e26-4c3d-427b-a2df-02e30b993d1c)
+
+### [Моя Карманная Ферма](https://yandex.ru/games/app/236798?lang=ru)
+> Игра на React + Redux опубликованна на Яндекс.Игры https://yandex.ru/games/app/236798?lang=ru 
+
+![image](https://github.com/donteday/donteday_cv/assets/124591767/1d238b92-f15d-4d32-8120-26c1c445fcf6)
+
+### [Тап Воин](https://yandex.ru/games/app/236753?lang=ru)
+> Игра на React + Redux опубликованна на Яндекс.Игры https://yandex.ru/games/app/236753?lang=ru
+
+![image](https://github.com/donteday/donteday_cv/assets/124591767/8261bc5a-229e-4361-ba79-e9f0ad2fd1f4)
+
+
 
